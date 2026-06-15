@@ -1,0 +1,16 @@
+.descripcion {
+  color: #475569;
+  line-height: 1.6;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
+  gap: 1.2rem;
+  margin-top: 1.5rem;
+}
+
+.error {
+  color: #b91c1c;
+  font-weight: 700;
+}

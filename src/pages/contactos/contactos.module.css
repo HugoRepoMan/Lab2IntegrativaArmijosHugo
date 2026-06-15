@@ -1,0 +1,16 @@
+.contactos {
+  max-width: 760px;
+}
+
+.contactos p {
+  line-height: 1.6;
+  color: #475569;
+}
+
+.card {
+  margin-top: 1.5rem;
+  padding: 1.5rem;
+  border-radius: 18px;
+  background: #ffffff;
+  box-shadow: 0 10px 25px rgba(15, 23, 42, 0.12);
+}
